@@ -74,7 +74,7 @@ const developer = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zaxxyrmh&repo=robotik-pnp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)](https://github.com/zakyrmh/robotik-pnp)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zakyrmh&repo=robotik-pnp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)](https://github.com/zakyrmh/robotik-pnp)
 
 </div>
 
